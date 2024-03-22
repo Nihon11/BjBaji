@@ -1,0 +1,129 @@
+.design-body	{
+    background-image:url('https://www.pcclean.io/wp-content/uploads/2020/4/E7BFb2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 120%;
+    color: greenyellow;
+    }
+
+.space-top{margin-top: 70px;}
+
+.container {
+margin-left: 5%;
+margin-right: 5%;
+}
+
+.nagivar    {
+    background-color:#5555;
+    width:60%;
+    overflow:auto;
+    margin:20% 18%;
+    
+}
+
+.nagivar a  {
+    color:white;
+    text-decoration:none;
+    float:left;
+    padding:10px 25px;
+    font-size:15px;}
+
+.nagivar a:hover {background-color: red;}
+.logo img{
+    left: 15px;
+    max-width: 164px;
+    max-height: 28px;}
+
+    .marquee    {
+        color: yellow;
+        font-size: 30px;
+        text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;}
+        .carousel-item{padding: 20px 40px;}
+        #carousel-inner{height: 550px;}
+
+        .inputbox-color {background-color: white;
+            color: black;}
+        .haji img{width: 50%;
+        height: 35%;
+        margin-left: 20%;}
+        
+        .problem-size img {width: 50%; height: 35%;}
+
+        #pact {color:white;
+            text-decoration: none;}
+      
+
+
+                    .card-body{border: none;
+                        background-color:#000000;
+                        box-shadow: 5px 5px 10px lightslategray ;}
+
+                        footer{text-align: center;}
+
+                    .card-footer{border: none;
+                        background-color:#000000;}
+
+                        
+    .btn{border-radius: 10px;
+        border:  #d0ff13;
+        color: white ;
+        padding: 10px 26px;
+        background-image: linear-gradient(to bottom,#FF589B 0%, #FF136F 100%);
+        font-weight: 700;}
+
+
+        .jam img {height: 400px;}
+.pam img {height: 400px;}
+
+
+.bgk{margin-left: 100px;}
+
+#jmk{margin-left: 100px;
+    padding-left: 100px;
+    padding-right: 370px;
+    }
+
+.bgk img {height:300px;
+    border-radius: 12px;
+    width: 405px;}
+    .mar    {
+        color: yellow;
+        text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        font-size: 20px;
+        font font-family:sans-serif;
+    }
+    
+footer{text-align: center;}
+#frotto{text-align: center;}
+
+.card-footer{border: none;
+            background-color:#000000;}
+.card-footer1{border: none;
+                background-color:gray;}
+.videos{margin-left: 10%;
+    box-shadow: 5px 5px 10px lightslategray ;
+    
+    
+        }
+
+        .danger {
+            background-color: #ffdddd;
+            border-left: 6px solid #f44336;
+            margin-bottom: 15px;
+            padding: 4px 12px;
+            color: darkred;
+          }
+
+        .classic-ramp{border: 3px solid red;
+            box-shadow: 5px 5px grey;
+          background-color: yellow;
+        color: #0000FF;
+      text-align: center;
+    width: auto;}
+
+        .container-size{
+            display: flex;
+            justify-content: center;
+            margin-bottom: 15px;
+            margin-top: 15px;
+        }
